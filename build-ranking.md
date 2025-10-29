@@ -2,4 +2,4 @@
 This is my ranking of every build I installed in the saga
 
 ## Windows 8 Builds
-- Build 7800 ❌ (didn't even install, I had to skip it)
+- i didnt do any yet
