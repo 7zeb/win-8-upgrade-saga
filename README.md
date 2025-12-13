@@ -5,7 +5,7 @@ Current Build: Windows 7 SP1
 
 ## Roadmap
 The roadmap for the Windows 8 Upgrade Saga does this
-- starts on Windows 7 (AHHHHHHHHHH I GOTTA DO THIS AGAIN)
+- starts on Windows 7 (DONE!)
 - goes through Windows 8 Builds (on build 7800 right now)
 - Windows 8 RTM
 - goes through Windows 8.1 Builds
