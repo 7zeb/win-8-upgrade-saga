@@ -1,7 +1,7 @@
 # Windows 8 Upgrade Saga
 Check progress on 7Zeb's Windows 8 Upgrade Saga, and see builds too!
 
-Current Build: Windows 7 SP1
+Current Build: Windows 8 Build 7800
 
 ## Roadmap
 The roadmap for the Windows 8 Upgrade Saga does this
